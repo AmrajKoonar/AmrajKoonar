@@ -43,7 +43,7 @@ I am a third-year Computer Science student at Simon Fraser University passionate
 | [🌦️ SFU Weather Update Bot](https://github.com/yourusername/sfu-weather-bot) | A Python Twitter bot that scrapes and posts real-time SFU weather and road updates. | Python, BeautifulSoup API, Twitter API |
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amrajkoonar" target="_blank">
+  <a href="https://www.linkedin.com/in/amraj-koonar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/amrajkoonar" target="_blank">
