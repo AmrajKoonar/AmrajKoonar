@@ -1,6 +1,6 @@
 <h1 align="center">Hi, <span style="color:gold;">I'm Amraj Koonar</span> 👋</h1>
 
-BSc Computer Science Student | Simon Fraser University
+<h3 align="center">BSc Computer Science Student | Simon Fraser University</h3>
 
 I am a third-year Computer Science student at Simon Fraser University passionate about web development, software development, front-end design, and full-stack applications. I specialize in React, JavaScript, and Python, with experience in backend technologies like Node.js and database management using SQL. I enjoy building interactive and scalable web solutions. Beyond technical skills, I thrive in team-oriented environments and enjoy problem-solving, mentoring, and collaborating on innovative ideas. I seek opportunities to apply my knowledge in internships, software development roles, or open-source contributions.
 
@@ -30,9 +30,9 @@ I am a third-year Computer Science student at Simon Fraser University passionate
 - 🔹 GraphQL ░░░░░░░░░░ 10%
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AmrajKoonar&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmrajKoonar&theme=tokyonight)
 
 ## 🚀 Featured Projects
 
