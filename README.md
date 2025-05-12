@@ -24,11 +24,6 @@ I am a third-year Computer Science student at Simon Fraser University passionate
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 
-## 📚 Currently Learning:
-- 🔹 TypeScript ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 50%
-- 🔹 Tailwind CSS ░░░░░░░░░░░░░░░░░░░░░░ 30%
-- 🔹 GraphQL ░░░░░░░░░░ 10%
-
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AmrajKoonar&show_icons=true&theme=tokyonight)
 
