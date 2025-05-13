@@ -70,9 +70,12 @@ I am a third-year Computer Science student at Simon Fraser University, passionat
 | [🏀 Sports Trivia Website](https://github.com/yourusername/sports-trivia) | An interactive sports trivia website using React with animated UI, featuring NFL, NBA, MLB, and EPL questions. | React, JavaScript, CSS, HTML, BallDontLie API |
 | [🌦️ SFU Weather Update Bot](https://github.com/yourusername/sfu-weather-bot) | A Python Twitter bot that scrapes and posts real-time SFU weather and road updates. | Python, BeautifulSoup API, Twitter API |
 
+## 📬 Contact
+
 <p align="center">
+
   <a href="https://www.linkedin.com/in/amraj-koonar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/amrajkoonar" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -83,6 +86,19 @@ I am a third-year Computer Science student at Simon Fraser University, passionat
   <a href="https://amrajkoonar.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio">
   </a>
+  <a href="mailto:ask36@sfu.ca">
+    <img src="https://img.shields.io/badge/Email-ask36@sfu.ca-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="tel:+12365186264">
+    <img src="https://img.shields.io/badge/Phone-236--518--6264-007ACC?style=for-the-badge&logo=phone&logoColor=white" alt="Phone">
+  </a>
+  <a href="https://github.com/AmrajKoonar/AmrajKoonar/blob/main/Amraj_Koonar_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View--PDF-4CAF50?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume">
+  </a>
 </p>
+
+
+
+
 
 
