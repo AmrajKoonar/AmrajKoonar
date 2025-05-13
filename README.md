@@ -52,13 +52,13 @@ I am a third-year Computer Science student at Simon Fraser University, passionat
 ---
 
 ## 📊 GitHub Stats
-![Amraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmrajKoonar&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmrajKoonar&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=AmrajKoonar&theme=tokyonight&hide_border=true)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=AmrajKoonar&theme=tokyonight&margin-w=5&margin-h=5)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmrajKoonar&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrajKoonar&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=AmrajKoonar&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AmrajKoonar&theme=tokyonight&margin-w=5&margin-h=5" />
+</p>
 
 ---
 
