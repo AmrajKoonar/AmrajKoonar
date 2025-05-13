@@ -56,6 +56,8 @@ I am a third-year Computer Science student at Simon Fraser University, passionat
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmrajKoonar&theme=tokyonight)
 
+---
+
 ## 🚀 Featured Projects
 
 | **Project** | **Description** | **Tech Stack** |
