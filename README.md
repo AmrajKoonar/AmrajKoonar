@@ -70,6 +70,8 @@ I am a third-year Computer Science student at Simon Fraser University, passionat
 | [🏀 Sports Trivia Website](https://github.com/yourusername/sports-trivia) | An interactive sports trivia website using React with animated UI, featuring NFL, NBA, MLB, and EPL questions. | React, JavaScript, CSS, HTML, BallDontLie API |
 | [🌦️ SFU Weather Update Bot](https://github.com/yourusername/sfu-weather-bot) | A Python Twitter bot that scrapes and posts real-time SFU weather and road updates. | Python, BeautifulSoup API, Twitter API |
 
+---
+
 ## 📬 Contact
 
 <p align="center">
