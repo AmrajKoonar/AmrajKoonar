@@ -4,6 +4,8 @@
 
 I am a third-year Computer Science student at Simon Fraser University, passionate about web development, software development, front-end design, and full-stack applications. I specialize in React, JavaScript, and Python, with experience in backend technologies like Node.js and database management using SQL. I enjoy building interactive and scalable web solutions. Beyond technical skills, I thrive in team-oriented environments and enjoy problem-solving, mentoring, and collaborating on innovative ideas. I seek opportunities to apply my knowledge in internships, software development roles, or open-source contributions.
 
+---
+
 ## 🛠️ Tech Stack
 
 ### **Languages**
@@ -15,7 +17,7 @@ I am a third-year Computer Science student at Simon Fraser University, passionat
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -31,6 +33,7 @@ I am a third-year Computer Science student at Simon Fraser University, passionat
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 ### **Developer Tools**
@@ -45,6 +48,8 @@ I am a third-year Computer Science student at Simon Fraser University, passionat
 ![Valgrind](https://img.shields.io/badge/Valgrind-3E8EDE?style=for-the-badge&logo=valgrind&logoColor=white)
 ![GCC](https://img.shields.io/badge/GCC-00599C?style=for-the-badge&logo=gnu&logoColor=white)
 ![GDB](https://img.shields.io/badge/GDB-00599C?style=for-the-badge&logo=gnu&logoColor=white)
+
+---
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AmrajKoonar&show_icons=true&theme=tokyonight)
