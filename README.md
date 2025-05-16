@@ -65,10 +65,17 @@ I am a third-year Computer Science student at Simon Fraser University, passionat
 ## 🚀 Featured Projects
 
 | **Project** | **Description** | **Tech Stack** |
-|------------|---------------|---------------|
-| [🎨 Personal Portfolio Website](https://github.com/yourusername/portfolio) | A fully responsive portfolio website with animated UI components and smooth page transitions. | React, CSS, HTML, JavaScript, Framer Motion |
-| [🏀 Sports Trivia Website](https://github.com/yourusername/sports-trivia) | An interactive sports trivia website using React with animated UI, featuring NFL, NBA, MLB, and EPL questions. | React, JavaScript, CSS, HTML, BallDontLie API |
-| [🌦️ SFU Weather Update Bot](https://github.com/yourusername/sfu-weather-bot) | A Python Twitter bot that scrapes and posts real-time SFU weather and road updates. | Python, BeautifulSoup API, Twitter API |
+|------------|-----------------|----------------|
+| [🍽️ FoodConnect](https://github.com/AmrajKoonar/Food-Connect) | A donation platform connecting food donors and recipients, with real-time chat, filtering, secure login, and map integration. | React, TypeScript, Tailwind CSS, Express.js, PostgreSQL, AWS |
+| [🛡️ DeepPhishing](https://github.com/CMPT-276-SPRING-2025/final-project-06-valleys) | AI-powered phishing detection and quiz platform for educating users using email, file, and link analysis. | Next.js, Tailwind CSS, Shadcn/ui, OpenAI API, JavaScript |
+| [🏀 SportoQuiz](https://github.com/AmrajKoonar/SportoQuiz) | A sports trivia app generating AI-powered questions from balldontlie data, with live leaderboard and CI/CD pipeline. | Next.js, React, TypeScript, Tailwind CSS, OpenAI API |
+| [🧠 QuizZora](https://github.com/AmrajKoonar/QuizZora) | AI-generated educational quiz platform using uploaded notes with user voting, history, and contact functionality. | Next.js, React, JavaScript, Tailwind CSS, OpenAI API |
+| [🌩️ SFU StormSage](https://github.com/AmrajKoonar/SFU-StormSage) | Python Twitter bot for weather, parking, and road alerts at SFU, scraping and posting real-time updates. | Python, BeautifulSoup, Twitter API |
+| [💻 Personal Portfolio](https://github.com/AmrajKoonar/AmrajKoonar.github.io) | A fully responsive personal site with animated transitions, project highlights, resume page, and contact form. | Next.js, TypeScript, Tailwind CSS, Framer Motion |
+| [🎬 MovieMind](https://github.com/AmrajKoonar/MovieMind) | Movie recommendation system using TF-IDF and cosine similarity, with GUI built in Tkinter. | Python, Pandas, Scikit-learn, Tkinter |
+| [📊 NBA Games Prediction Model](https://github.com/AmrajKoonar/NBA-Games-Prediction-Model) | Machine learning model that predicts NBA game outcomes using scraped box score and standings data. | Python, Scikit-learn, Pandas, Matplotlib |
+
+
 
 ---
 
