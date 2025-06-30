@@ -72,7 +72,7 @@ I am a third-year Computer Science student at Simon Fraser University, with a pa
 | [🧠 ThinkForge](https://github.com/AmrajKoonar/ThinkForge) | AI-generated educational quiz platform using uploaded notes with user voting, history, and contact functionality. | Next.js, React, JavaScript, Tailwind CSS, OpenAI API |
 | [🌩️ SFU StormSage](https://github.com/AmrajKoonar/SFU-StormSage) | Python Twitter bot for weather, parking, and road alerts at SFU, scraping and posting real-time updates. | Python, BeautifulSoup, Twitter API |
 | [💻 Personal Portfolio](https://github.com/AmrajKoonar/AmrajKoonar.github.io) | A fully responsive personal site with animated transitions, project highlights, resume page, and contact form. | Next.js, TypeScript, Tailwind CSS, Framer Motion |
-| [🎬 MovieMind](https://github.com/AmrajKoonar/MovieMind) | Movie recommendation system using TF-IDF and cosine similarity, with GUI built in Tkinter. | Python, Pandas, Scikit-learn, Tkinter |
+| [🎬 MovieMind](https://github.com/AmrajKoonar/MovieMind) | Movie recommendation system using TF-IDF and cosine similarity, with a GUI built in Tkinter. | Python, Pandas, Scikit-learn, Tkinter |
 | [📊 NBA Games Prediction Model](https://github.com/AmrajKoonar/NBA-Games-Prediction-Model) | Machine learning model that predicts NBA game outcomes using scraped box score and standings data. | Python, Scikit-learn, Pandas, Matplotlib |
 
 
