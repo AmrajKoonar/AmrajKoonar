@@ -4,11 +4,6 @@
 
 I am a third-year Computer Science student at Simon Fraser University, with a passion for web development, software development, front-end design, and full-stack applications. I specialize in React, JavaScript, and Python, with experience in backend technologies like Node.js and database management using SQL. I enjoy building interactive and scalable web solutions. Beyond technical skills, I thrive in team-oriented environments and enjoy problem-solving, mentoring, and collaborating on innovative ideas. I seek opportunities to apply my knowledge in internships, software development roles, or open-source contributions.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AmrajKoonar/AmrajKoonar/main/sfu_banner.jpg" alt="SFU Banner" width="100%" height="100" />
-</p>
-
-
 ---
 
 ## 🛠️ Tech Stack
