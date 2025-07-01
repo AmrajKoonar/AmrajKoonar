@@ -78,7 +78,9 @@ I am a third-year Computer Science student at Simon Fraser University, with a pa
 
 ## Honors & awards
 **Computing Science Undergraduate Student Society Award**
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AmrajKoonar/amrajkoonar.github.io/main/assets/sfu-logo.png" alt="SFU Logo" width="120"/>
+</p>
 _Issued by Simon Fraser University · Jun 2025_
 
 Associated with Simon Fraser University
