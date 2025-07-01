@@ -78,8 +78,11 @@ I am a third-year Computer Science student at Simon Fraser University, with a pa
 
 ## Honors & awards
 **Computing Science Undergraduate Student Society Award**
+
 _Issued by Simon Fraser University · Jun 2025_
+
 Associated with Simon Fraser University
+
 
 This scholarship recognizes outstanding academic achievement and community involvement among undergraduate students in Computing Science. Nominated by the Faculty of Applied Sciences, the award highlights leadership, academic merit, and contributions to the student community within the School of Computing Science.
 
