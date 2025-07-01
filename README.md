@@ -76,6 +76,8 @@ I am a third-year Computer Science student at Simon Fraser University, with a pa
 | [📊 NBA Games Prediction Model](https://github.com/AmrajKoonar/NBA-Games-Prediction-Model) | Machine learning model that predicts NBA game outcomes using scraped box score and standings data. | Python, Scikit-learn, Pandas, Matplotlib |
 
 
+## Honors & awards
+
 
 ---
 
