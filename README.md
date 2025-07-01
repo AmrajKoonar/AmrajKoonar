@@ -78,7 +78,7 @@ I am a third-year Computer Science student at Simon Fraser University, with a pa
 
 ## Honors & awards
 **Computing Science Undergraduate Student Society Award**
-
+_Issued by Simon Fraser University · Jun 2025_
 
 ---
 
