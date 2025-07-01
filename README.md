@@ -76,18 +76,20 @@ I am a third-year Computer Science student at Simon Fraser University, with a pa
 | [📊 NBA Games Prediction Model](https://github.com/AmrajKoonar/NBA-Games-Prediction-Model) | Machine learning model that predicts NBA game outcomes using scraped box score and standings data. | Python, Scikit-learn, Pandas, Matplotlib |
 
 
-## Honors & awards
-**Computing Science Undergraduate Student Society Award**
+## 🏅 Honors & Awards
+
+### Computing Science Undergraduate Student Society Award
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AmrajKoonar/AmrajKoonar/main/sfu_banner.jpg" alt="SFU Banner" width="400"/>
+  <img src="https://raw.githubusercontent.com/AmrajKoonar/AmrajKoonar/main/sfu_banner.jpg" alt="SFU Logo" width="100" height="100" />
 </p>
 
-_Issued by Simon Fraser University · Jun 2025_
+*Issued by Simon Fraser University · Jun 2025*
 
-Associated with Simon Fraser University
-
+**Associated with Simon Fraser University**
 
 This scholarship recognizes outstanding academic achievement and community involvement among undergraduate students in Computing Science. Nominated by the Faculty of Applied Sciences, the award highlights leadership, academic merit, and contributions to the student community within the School of Computing Science.
+
 
 ---
 
