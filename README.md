@@ -80,15 +80,23 @@ I am a third-year Computer Science student at Simon Fraser University, with a pa
 
 ### Computing Science Undergraduate Student Society Award
 
-<p align="center">
+<table>
+<tr>
+<td width="120">
   <img src="https://raw.githubusercontent.com/AmrajKoonar/AmrajKoonar/main/sfu_logo.JPG" alt="SFU Logo" width="100" height="100" />
-</p>
+</td>
+<td>
 
 *Issued by Simon Fraser University · Jun 2025*
 
 **Associated with Simon Fraser University**
 
 This scholarship recognizes outstanding academic achievement and community involvement among undergraduate students in Computing Science. Nominated by the Faculty of Applied Sciences, the award highlights leadership, academic merit, and contributions to the student community within the School of Computing Science.
+
+</td>
+</tr>
+</table>
+
 
 
 ---
