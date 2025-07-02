@@ -89,7 +89,7 @@ I am a third-year Computer Science student at Simon Fraser University, with a pa
 
 *Issued by Simon Fraser University · June 2025*
 
-**Associated with Simon Fraser University**
+**Associated with Faculty of Applied Science | Simon Fraser University**
 
 This scholarship recognizes outstanding academic achievement and community involvement among undergraduate students in Computing Science. Nominated by the Faculty of Applied Sciences, the award highlights leadership, academic merit, and contributions to the student community within the School of Computing Science.
 
