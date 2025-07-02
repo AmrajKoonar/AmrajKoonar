@@ -87,7 +87,7 @@ I am a third-year Computer Science student at Simon Fraser University, with a pa
 </td>
 <td>
 
-*Issued by Simon Fraser University · Jun 2025*
+*Issued by Simon Fraser University · June 2025*
 
 **Associated with Simon Fraser University**
 
