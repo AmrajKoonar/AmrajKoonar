@@ -1,4 +1,4 @@
-<h1 align="center">Hi, <span style="color:gold;">I'm Amraj Koonar</span> 👋</h1>
+<h1 align="center">H, <span style="color:gold;">I'm Amraj Koonar</span> 👋</h1>
 
 <h3 align="center">BSc Computing Science Student | Simon Fraser University</h3>
 
