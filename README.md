@@ -51,17 +51,6 @@ I am a third-year Computer Science student at Simon Fraser University, with a pa
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmrajKoonar&show_icons=true&theme=tokyonight&hide_border=true" />
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrajKoonar&layout=compact&theme=tokyonight&hide_border=true" />
-  <img src="https://streak-stats.demolab.com/?user=AmrajKoonar&theme=tokyonight&hide_border=true" /> -->
-  <img src="https://github-profile-trophy.vercel.app/?username=AmrajKoonar&theme=tokyonight&margin-w=5&margin-h=5" />
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 | **Project** | **Description** | **Tech Stack** |
@@ -75,6 +64,17 @@ I am a third-year Computer Science student at Simon Fraser University, with a pa
 | [🎬 MovieMind](https://github.com/AmrajKoonar/MovieMind) | Movie recommendation system using TF-IDF and cosine similarity, with a GUI built in Tkinter. | Python, Pandas, Scikit-learn, Tkinter |
 | [📊 NBA Games Prediction Model](https://github.com/AmrajKoonar/NBA-Games-Prediction-Model) | Machine learning model that predicts NBA game outcomes using scraped box score and standings data. | Python, Scikit-learn, Pandas, Matplotlib |
 
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmrajKoonar&show_icons=true&theme=tokyonight&hide_border=true" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrajKoonar&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=AmrajKoonar&theme=tokyonight&hide_border=true" /> -->
+  <img src="https://github-profile-trophy.vercel.app/?username=AmrajKoonar&theme=tokyonight&margin-w=5&margin-h=5" />
+</p>
+
+---
 
 ## 🏅 Honors & Awards
 
@@ -111,10 +111,10 @@ This scholarship recognizes outstanding academic achievement and community invol
   <a href="https://github.com/amrajkoonar" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://twitter.com/amrajkoonar" target="_blank">
+<!--   <a href="https://twitter.com/amrajkoonar" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://amrajkoonar.github.io/" target="_blank">
+  </a> -->
+  <a href="https://amraj-koonar.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio">
   </a>
   <a href="mailto:ask36@sfu.ca">
